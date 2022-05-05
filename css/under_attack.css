@@ -493,7 +493,7 @@ h1{
     }
 
     .left-sec{
-        background-image: url('./1.jpg')!important;
+        background-image: url('https://cdn.jsdelivr.net/gh/Eternal-Solitude/Static-file@main/images/1.jpg')!important;
     }
 }
 
@@ -521,7 +521,7 @@ h1{
     }
 
     .left-sec{
-        background-image: url('./1.jpg')!important;
+        background-image: url('https://cdn.jsdelivr.net/gh/Eternal-Solitude/Static-file@main/images/1.jpg')!important;
     }
 }
 
@@ -532,7 +532,7 @@ h1{
 }
 
 .left-sec{
-    background-image: url('./1.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/Eternal-Solitude/Static-file@main/images/1.jpg');
     background-position: bottom;
     background-size: contain;
     background-repeat: no-repeat;
@@ -640,6 +640,6 @@ h1{
 .bubbles { background-color: #404040; width:15px; height: 15px; margin:2px; border-radius:100%; -webkit-animation:bubbles 0.6s 0.07s infinite ease-in-out; animation:bubbles 0.6s 0.07s infinite ease-in-out; -webkit-animation-fill-mode:both; animation-fill-mode:both; display:inline-block; }
 
 .right-sec{
-background-image: url('./2.jpg');
+background-image: url('https://cdn.jsdelivr.net/gh/Eternal-Solitude/Static-file@main/images/2.jpg');
 background-size: 100% 100%;
 }
